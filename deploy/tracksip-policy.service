@@ -1,0 +1,14 @@
+[Unit]
+Description=Tracksip Policy Page
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/apps/tracksip-policy
+ExecStart=/usr/bin/node server.js
+Restart=on-failure
+Environment=PORT=5002
+
+[Install]
+WantedBy=multi-user.target

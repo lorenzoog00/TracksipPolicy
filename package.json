@@ -1,0 +1,9 @@
+{
+  "name": "tracksip-policy",
+  "version": "1.0.0",
+  "description": "Tracksip privacy policy and terms of service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
