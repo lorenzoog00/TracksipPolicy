@@ -2,7 +2,7 @@
 
 Privacy Policy, Terms of Service, and Account Deletion page for the Tracksip app.
 
-Live at: https://looqs.online/siptrack/policy
+Live at: https://tracksip.online/policy (also https://looqs.online/siptrack/policy)
 
 ## Stack
 
